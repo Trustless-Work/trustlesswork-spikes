@@ -29,7 +29,7 @@ Trustless Work escrows can use **any Stellar-issued asset**.
 Every participant must be able to hold that asset.
 
 {% hint style="warning" %}
-If a signer can’t hold the escrow asset, their step may fail. Set trustlines before testing any escrow flow.
+If a signer can’t hold the escrow asset, their step may fail. Set trustlines before testing any escrow flow. See [Supported Tokens](supported-tokens.md) for the assets the protocol-fee wallet can hold.
 {% endhint %}
 
 ### Issuer addresses (USDC / EURC)
