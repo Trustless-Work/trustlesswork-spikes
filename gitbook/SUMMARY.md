@@ -22,6 +22,7 @@
   * [Escrow products Mix & Match Guide](introduction/technology-overview/smart-escrow-design.md)
 * [Stellar Network](introduction/stellar-and-soroban-the-backbone-of-trustless-work/README.md)
   * [Trustlines](introduction/stellar-and-soroban-the-backbone-of-trustless-work/trustlines.md)
+  * [Supported Tokens](introduction/stellar-and-soroban-the-backbone-of-trustless-work/supported-tokens.md)
   * [Testnet Tokens](introduction/stellar-and-soroban-the-backbone-of-trustless-work/testnet-tokens.md)
   * [Stellar Wallets](introduction/stellar-and-soroban-the-backbone-of-trustless-work/stellar-wallets/README.md)
     * [Freighter Wallet](introduction/stellar-and-soroban-the-backbone-of-trustless-work/stellar-wallets/freighter-wallet.md)
@@ -50,6 +51,8 @@
       * [Get Escrows by Role](introduction/developer-resources/types/payloads/get-escrows-by-role.md)
     * [Responses](introduction/developer-resources/types/responses.md)
     * [Errors](introduction/developer-resources/types/errors.md)
+  * [Error Codes](introduction/developer-resources/error-codes/README.md)
+    * [ESCROW_RECEIVER_TRUSTLINE_MISSING](introduction/developer-resources/error-codes/escrow-receiver-trustline-missing.md)
   * [Stellar Wallet Kit - Quick Integration](introduction/developer-resources/stellar-wallet-kit-quick-integration.md)
 
 ## API REST

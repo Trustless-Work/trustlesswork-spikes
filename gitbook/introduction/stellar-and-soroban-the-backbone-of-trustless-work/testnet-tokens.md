@@ -62,6 +62,21 @@ Testnet tokens are virtual assets used on Stellar's test network (testnet) to:
 
 ***
 
+### **How to Get Testnet EURC and PYUSD**
+
+1. **Set the trustline** on your testnet account:
+   * EURC issuer: `GB3Q6QDZYTHWT7E5PVS3W7FUT5GVAFC5KSZFFLPU25GO7VTC3NM2ZTVO`
+   * PYUSD issuer: `GBT2KJDKUZYZTQPCSR57VZT5NJHI4H7FOB5LT5FPRWSR7I5B4FS3UU7G`
+2. **Request tokens:**
+   * EURC: [Circle Faucet](https://faucet.circle.com/). Select **Stellar Testnet** and **EURC**.
+   * PYUSD: [Paxos Faucet](https://faucet.paxos.com/). Select **PYUSD** and **Stellar Testnet**.
+
+{% hint style="info" %}
+For escrows, stick to the standard testnet tokens (USDC, EURC, PYUSD); see [Supported Tokens](supported-tokens.md). Need a different token? Get in touch with the Trustless Work team.
+{% endhint %}
+
+***
+
 ## **How to Use Testnet Tokens**
 
 ### **1. Explore Wallet Operations**
